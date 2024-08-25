@@ -3,9 +3,11 @@
 > A spreadsheet editing app.
 
 # Steps to run project:
-`npm install`
-`npm start`
+```
+npm install
+npm start
 
+```
 ## Features:
 
 1. Editing cells.
