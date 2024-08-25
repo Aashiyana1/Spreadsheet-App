@@ -1,0 +1,40 @@
+.cell-actions-container {
+  background-color: #f2f2f2;
+  display: flex;
+  padding: 8px;
+  align-items: center;
+  height: 3rem;
+}
+
+.cell-actions {
+  margin: 0 8px;
+  cursor: pointer;
+  display: inline-block;
+  font-size: 1em;
+}
+
+.cell-action-selected {
+  background-color: lightgray;
+}
+
+.cell-action-choose {
+  position: relative;
+}
+
+.hidden-input {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  left: 0;
+  top: 0;
+  opacity: 0;
+  cursor: pointer;
+}
+
+.font-dropdown {
+  display: inline-block;
+  padding: 0.2rem;
+  border: none;
+  border-radius: 2px;
+  outline: none;
+}

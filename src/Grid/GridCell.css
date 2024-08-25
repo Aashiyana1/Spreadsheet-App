@@ -1,0 +1,14 @@
+.grid-cell {
+  flex: 1;
+  border: none;
+  border: 1px solid #f4f4f4;
+  padding: 4px;
+  height: 100%;
+  min-width: 150px;
+  outline: none;
+  overflow-x: scroll;
+}
+
+.grid-cell-active {
+  border: 1px solid blue;
+}

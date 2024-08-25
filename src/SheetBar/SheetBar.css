@@ -1,0 +1,24 @@
+.sheetbar-container {
+  display: flex;
+  padding: 0 8px 0px 8px;
+  align-items: center;
+  height: 3rem;
+  background-color: #f2f2f2;
+}
+
+.sheetbar-items {
+  margin: 0 8px;
+  cursor: pointer;
+  display: flex;
+  height: 100%;
+  font-size: 20px;
+  align-items: center;
+}
+
+.sheet-switch-button {
+  padding: 0 8px;
+}
+
+.current-sheet {
+  background-color: rgb(162, 212, 255);
+}
