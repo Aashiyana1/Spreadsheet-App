@@ -1,4 +1,4 @@
-# Google Sheets Clone:
+# Spreadsheet App:
 
 > A spreadsheet editing app.
 
